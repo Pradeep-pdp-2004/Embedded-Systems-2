@@ -17,6 +17,13 @@ The Home Automation with Bluetooth project is a beginner-friendly yet practical 
 
 CIRCUIT:
 
+<img width="528" height="307" alt="Image" src="https://github.com/user-attachments/assets/74c786cd-d22f-4229-b6a3-ed5b1f5cf6a9" />
+
 
 OUTPUT:
+
+<img width="825" height="368" alt="Image" src="https://github.com/user-attachments/assets/5a1318ff-c7a8-4884-a081-eb4a61066230" />
+
+
+
 
